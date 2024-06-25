@@ -20,7 +20,7 @@ step-2: In this just by using action of mouse over along with the arrow icon can
 ### Applying Id's for the elements:
 * For images, icon and for line we applied query selectors to link the html elements to the javascript.
 
-### creating function for movement of icon on mouseover
+### creating function for movement of icon on mousemove
 * By creating function for mouseover on transparent image to apply the background.
 * Wrote logic for the width of transparent image to coverup the background along with the arrow icon.
 * we used pageX to move the background horizontal along with icon.
